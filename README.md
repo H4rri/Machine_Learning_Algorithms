@@ -7,4 +7,5 @@ I am to explore the following algorithms:
 2) Kmeans
 3) Logistic Regression
 4) Linear Regression
-5) Random Forest or Time Series
+5) Deep Learning
+6) Non Negative Matrix Factorisation
