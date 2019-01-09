@@ -7,6 +7,6 @@ I aim to explore the following algorithms:
 2) KNN (Completed July 2018)
 3) Linear Regression (Completed September 2018)
 4) Logistic Regression
-5) Non Negative Matrix Factorisation
+5) Non Negative Matrix Factorisation (Completed September 2018)
 6) Deep Learning
 
