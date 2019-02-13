@@ -3,10 +3,10 @@ The aim of these projects will be to understand any interesting machine learning
 
 I aim to explore the following algorithms:
 
-1) K-means (Completed July 2018)
-2) KNN (Completed July 2018)
-3) Linear Regression (Completed September 2018)
+1) K-means                              (Completed July 2018)
+2) KNN                                  (Completed July 2018)
+3) Linear Regression                    (Completed September 2018)
 4) Logistic Regression
-5) Non Negative Matrix Factorisation (Completed September 2018)
-6) Deep Learning
+5) Non Negative Matrix Factorisation    (Completed September 2018)
+6) Deep Learning / Neural Nets
 
